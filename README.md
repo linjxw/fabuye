@@ -6,11 +6,11 @@
 
 | 平台 | 版本 / 架构 | 下载链接 |
 | :--- | :--- | :--- |
-| **Android** | 📱 标准版 | [点击下载 (v1.1.16.apk)](https://github.com/linjxw/fabuye/releases/download/6.26/swy-1.1.3-arm64-v8a.apk) |
-| | 📱 兼容版 (老旧机型) | [点击下载 (v1.1.16.apk)](https://github.com/linjxw/fabuye/releases/download/6.26/swy-1.1.2-universal.apk) |
-| **Windows** | 💻 64位安装包 | [点击下载 (v2.1.3.exe)](https://github.com/linjxw/fabuye/releases/download/6.26/swy--v2.1.3-win32-x64.exe) |
-| **macOS** | 🍏 Apple 芯片 (M1/M2/M3) | [点击下载 (v2.1.3.dmg)](https://github.com/linjxw/fabuye/releases/download/6.26/swy--v2.1.3-darwin-arm64.dmg) |
-| | 🍏 Intel 芯片 | [点击下载 (v2.1.3.dmg)](https://github.com/linjxw/fabuye/releases/download/6.26/swy--v2.1.3-darwin-x64.dmg) |
+| **Android** | 📱 标准版 | [点击下载 (v1.1.16.apk)](https://github.com/linjxw/fabuye/releases/download/7.11/swy-1.2.0-arm64-v8a.apk) |
+| | 📱 兼容版 (老旧机型) | [点击下载 (v1.1.16.apk)](https://github.com/linjxw/fabuye/releases/download/7.11/swy-1.2.0-universal.apk) |
+| **Windows** | 💻 64位安装包 | [点击下载 (v2.1.3.exe)](https://github.com/linjxw/fabuye/releases/download/7.11/swy-v2.2.0-win32-x64.exe) |
+| **macOS** | 🍏 Apple 芯片 (M1/M2/M3) | [点击下载 (v2.1.3.dmg)](https://github.com/linjxw/fabuye/releases/download/7.11/swy-v2.2.0-darwin-arm64.dmg) |
+| | 🍏 Intel 芯片 | [点击下载 (v2.1.3.dmg)](https://github.com/linjxw/fabuye/releases/download/7.11/swy-v2.2.0-darwin-x64.dmg) |
 
 ---
 
