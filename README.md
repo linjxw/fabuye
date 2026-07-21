@@ -6,9 +6,9 @@
 
 | 平台 | 版本 / 架构 | 下载链接 |
 | :--- | :--- | :--- |
-| **Android** | 📱 标准版 | [点击下载 (v1.1.22.apk)](https://github.com/linjxw/fabuye/releases/download/7.18/Salmon-Android-arm64-release.apk) |
-| **Windows** | 💻 64位安装包 | [点击下载 (v1.1.22.exe)](https://github.com/linjxw/fabuye/releases/download/7.18/Salmon-Windows-x64-1.1.22-Setup.exe) |
-| **macOS** | 🍏 Apple 芯片 (M1/M2/M3) | [点击下载 (v1.1.22.dmg)](https://github.com/linjxw/fabuye/releases/download/7.18/Salmon-macOS-arm64-1.1.22.dmg) |
+| **Android** | 📱 标准版 | [点击下载 (v1.1.22.apk)](https://github.com/linjxw/fabuye/releases/download/7.22/Salmon-Android-arm64-release.apk) |
+| **Windows** | 💻 64位安装包 | [点击下载 (v1.1.22.exe)](https://github.com/linjxw/fabuye/releases/download/7.22/Salmon-Windows-x64-1.1.22-Setup.exe) |
+| **macOS** | 🍏 Apple 芯片 (M1/M2/M3) | [点击下载 (v1.1.22.dmg)](https://github.com/linjxw/fabuye/releases/download/7.22/Salmon-macOS-arm64-1.1.22.dmg) |
 | | 🍏 Intel 芯片 | [点击下载 (v1.1.22.dmg)](https://github.com/linjxw/fabuye/releases/download/7.18/Salmon-macOS-x64-1.1.22.dmg) |
 
 ---
